@@ -24,4 +24,4 @@ The dataset was hosted in Kaggle Datasets. Model progress (monitored by `CSVLogg
 
 #### **DO NOT USE FOR MEDICAL ADVICE!**
 
-The web app was based on work by [Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
+<!-- The web app was based on work by [Nidhin Pattaniyil and Reshama Shaikh](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/) -->
