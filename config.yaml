@@ -1,6 +1,6 @@
 title: Diabetic Retinopathy Detector
 description: Classify fundus images using deep learning
-link: https://github.com/ammar0211/diabetic-retinopathy-classifier-project/
+link: https://github.com/ammar0211/dr-classifier-project/
 
 about:
 
@@ -9,7 +9,7 @@ about:
   
   This is a Diabetic Retinopathy Detector that detects Referrable Diabetic Retinopathy (RDR) using Deep Learning and was built with [fastai](docs.fast.ai)
 
-code: hhttps://github.com/ammar0211/retinopathy-classifier
+code: https://github.com/ammar0211/dr-classifier-project/
 
 sampleImages:
   - name: No Retinopathy
